@@ -37,23 +37,33 @@
 
 ## 📂 Featured Projects
 
-### 🍕 Zomato Clone
-A food delivery UI clone with responsive design.  
-Built with **HTML & CSS**.  
-🔗 [github.com/abhilash-777/zomatoclone](https://github.com/abhilash-777/zomatoclone)
+## 📂 Featured Projects
+
+### 🛒 Orabolt E-Commerce
+A full-stack e-commerce web application with product listings, cart functionality, and user authentication.  
+Built with **MongoDB**, **Express.js**, **React.js**, **Node.js**.  
+🔗 [github.com/abhilash-777/orabolt](https://github.com/abhilash-777/orabolt)
+
+---
+
+### 🌤️ Weather App
+A real-time weather application that fetches live weather data based on city search.  
+Built with **React.js**, **OpenWeather API**, **CSS**.  
+🔗 [github.com/abhilash-777/weather-app](https://github.com/abhilash-777/weather-app)
+
+---
+
+### 🎨 Animated Portfolio
+A personal developer portfolio with smooth animations and a modern UI design.  
+Built with **HTML**, **CSS**, **JavaScript**.  
+🔗 [github.com/abhilash-777/Portfolio](https://github.com/abhilash-777/Portfolio)
 
 ---
 
 ### 🔐 Admin Auth System
-Authentication system with admin login and access control.  
-Built with **Node.js**, **Express**, **Handlebars**.  
+A secure authentication system with admin login, session management, and access control.  
+Built with **Node.js**, **Express.js**, **MongoDB**, **Handlebars**.  
 🔗 [github.com/abhilash-777/adminAuth](https://github.com/abhilash-777/adminAuth)
-
----
-
-### 🌐 Portfolio
-My personal developer portfolio.  
-🔗 [github.com/abhilash-777/Portfolio](https://github.com/abhilash-777/Portfolio)
 
 ---
 
