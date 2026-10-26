@@ -67,5 +67,5 @@ My personal developer portfolio.
 ## 🌐 Connect With Me
 
 - 📧 **Email:** your.email@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/abhilash-p-51233518a)
-- 🌍 **Portfolio:** [your-portfolio-url.com]([https://your-portfolio-url.com](https://animated-portfolio-snowy.vercel.app/))
+- 🔗 **LinkedIn:** [www.linkedin.com/in/abhilash-p-51233518a].
+- 🌍 **Portfolio:** [[https://animated-portfolio-snowy.vercel.app/](https://animated-portfolio-snowy.vercel.app/)]].
