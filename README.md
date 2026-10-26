@@ -1,4 +1,4 @@
-![banner](https://github.com/abhilash-777/abhilash-777/raw/main/banner.jpg)
+![banner](https://github.com/abhilash-777/abhilash-777/blob/f04055f65797398a05dbcaa2772c24160c282f92/git%20banner.png)
 
 # Hi 👋, I'm Abhilash
 
