@@ -39,8 +39,6 @@
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 ### 🛒 Orabolt E-Commerce
 A full-stack e-commerce web application with product listings, cart functionality, and user authentication.  
 Built with **MongoDB**, **Express.js**, **React.js**, **Node.js**.  
@@ -80,4 +78,4 @@ Built with **Node.js**, **Express.js**, **MongoDB**, **Handlebars**.
 
 - 📧 **Email:** abhilashguptha626@gmail.com
 - 🔗 **LinkedIn:** [www.linkedin.com/in/abhilash-p-51233518a].
-- 🌍 **Portfolio:** [[https://animated-portfolio-snowy.vercel.app/](https://animated-portfolio-snowy.vercel.app/)]].
+- 🌍 **Portfolio:** [[https://animated-portfolio-snowy.vercel.app/](https://animated-portfolio-snowy.vercel.app/)].
