@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Abhilash
 
-<!--
-**abhilash-777/abhilash-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Full Stack Web Engineer
 
-Here are some ideas to get you started:
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently building full-stack web applications using the **MERN stack**
+- 🌱 Currently exploring **REST APIs**, **authentication flows**, and **clean backend architecture**
+- 💡 Passionate about creating fast, responsive, and user-friendly web experiences
+- 🎯 Goal: Build production-ready applications and grow as a full-stack engineer
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** JavaScript • HTML • CSS
+
+**Frontend:** React.js • Tailwind CSS • Bootstrap
+
+**Backend:** Node.js • Express.js • REST APIs • JWT Auth
+
+**Database:** MongoDB • Mongoose
+
+**Tools:** Git & GitHub • VS Code • Postman
+
+---
+
+## 📂 Featured Projects
+
+### 🍕 Zomato Clone
+A food delivery UI clone with responsive design.  
+Built with **HTML & CSS**.  
+🔗 [github.com/abhilash-777/zomatoclone](https://github.com/abhilash-777/zomatoclone)
+
+---
+
+### 🔐 Admin Auth System
+Authentication system with admin login and access control.  
+Built with **Node.js**, **Express**, **Handlebars**.  
+🔗 [github.com/abhilash-777/adminAuth](https://github.com/abhilash-777/adminAuth)
+
+---
+
+### 🌐 Portfolio
+My personal developer portfolio.  
+🔗 [github.com/abhilash-777/Portfolio](https://github.com/abhilash-777/Portfolio)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhilash-777&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-777&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 **Email:** your.email@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/abhilash-p-51233518a)
+- 🌍 **Portfolio:** [your-portfolio-url.com]([https://your-portfolio-url.com](https://animated-portfolio-snowy.vercel.app/))
